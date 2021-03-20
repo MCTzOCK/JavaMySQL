@@ -1,5 +1,7 @@
 # JavaMySQL
 
+[![Java CI with Maven](https://github.com/MCTzOCK/JavaMySQL/actions/workflows/maven.yml/badge.svg)](https://github.com/MCTzOCK/JavaMySQL/actions/workflows/maven.yml)
+
 # Installation
 
 Add this to your pom.xml and run ``mvn install``:
