@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.mctzock</groupId>
-    <artifactId>JavaMySQL</artifactId>
+    <artifactId>javamysql</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -30,5 +30,13 @@
             <version>8.0.23</version>
         </dependency>
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/MCTzOCK/JavaMySQL</url>
+        </repository>
+    </distributionManagement>
 
 </project>
