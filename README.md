@@ -11,7 +11,7 @@ Add this to your pom.xml and run ``mvn install``:
   <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
-# Examples
+# Example
 
 ```java
 package org.example.loginsystem;
