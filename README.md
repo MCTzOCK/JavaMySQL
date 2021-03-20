@@ -9,6 +9,7 @@ Add this to your pom.xml and run ``mvn install``:
   <groupId>de.mctzock</groupId>
   <artifactId>javamysql</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <scope>compile</scope>
 </dependency>
 ```
 # Example
